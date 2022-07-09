@@ -9,7 +9,7 @@ AWS SageMaker has a fantastic set of functional components that can be used in c
 - **Model Endpoints:** Easy to use HTTP(S) endpoints for single or batch predictions
 
 
-## What is the SageMaker Spider?
+## Why SageMaker Spider?
 - SageMaker is awesome but fairly complex
 - Spider lets us setup SageMaker Pipelines in a few lines of code
 - Pipeline Graphs: Visibility/Transparency into a Pipeline
